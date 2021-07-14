@@ -1,0 +1,12 @@
+{
+    "[CRDXZ": {
+        "data": "hwQMABAAAAAA8P//D0DUDQD/3d39d9QN8N/d3d3//wDw/93/3UlJ////3939SUn/////3/1JSQ/////f/UlJD//////dSUn/8P//391JSf/w////3///AAD////9d9QNAPD//w9A1A0=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "DARA"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
